@@ -1,0 +1,31 @@
+.btn{
+    padding:1rem;
+    max-width: 300px;
+    margin:auto;
+    border: 1px dashed red;
+    border-radius:1rem;
+    box-shadow: 2px 2px 2px red;
+    display: block;
+}
+
+h1{
+    font-size: 3rem;
+    display: block;
+    max-width:600px;
+    margin:auto;
+    padding:1rem;
+    border-bottom: 1px solid grey;
+    text-align: center;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius:1rem;
+}
+
+p{
+    max-width: 300px;
+    text-align: center;
+    display: block;
+    margin:auto;
+    padding:1rem;
+    word-spacing: 1px;
+    letter-spacing: 0.5px;
+}
