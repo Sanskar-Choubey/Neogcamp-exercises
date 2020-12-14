@@ -29,3 +29,11 @@ p{
     word-spacing: 1px;
     letter-spacing: 0.5px;
 }
+
+.input-field{
+    padding:2rem;
+    margin:auto;
+    max-width:500px;
+    display: block;
+    width: 60%;
+}
