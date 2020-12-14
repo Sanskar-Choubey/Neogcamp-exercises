@@ -39,3 +39,12 @@ p{
     border:1px dashed red;
     border-radius: 1rem;
 }
+
+.output-field{
+    padding:2rem;
+    border:1px dashed red;
+    margin:auto;
+    margin-top:1rem;
+    width:400px;
+    display: block;
+}
