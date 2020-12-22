@@ -7,4 +7,7 @@ button.addEventListener('click',function clickHandler(){
     
     var output = inputField.value;
     outputField.innerText = output;
+
+    // this is the section that contains  the changes happedn
+    <p>This is the changed part</p>
 })
